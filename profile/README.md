@@ -108,7 +108,7 @@ flowchart LR
 
 ---
 
-## 🌍 Hecho por una colombiana 🇨🇴 y un chileno 🇨🇱, con cariño
+## 🌍 Hecho por una colombiana <img src="https://flagcdn.com/w40/co.png" width="28" alt="Colombia"> y un chileno <img src="https://flagcdn.com/w40/cl.png" width="28" alt="Chile">, con cariño
 
 OurSpace nació como un proyecto para **Paola y Juan**, y creció pensando en que cualquier pareja
 pueda tener un lugar tranquilo donde organizar su vida en común.
